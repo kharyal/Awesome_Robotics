@@ -5,3 +5,4 @@ This repository contains my implementations of robtics algorithms, along with th
 
 ### Contents:
 1. Bayes filter
+2. Kalman filter (in progress...)
