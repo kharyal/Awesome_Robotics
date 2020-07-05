@@ -1,6 +1,6 @@
 # Kalman Filter
 
-[code](./kalman-elevator.ipynb)
+[code](./Kalman-elevator.ipynb)
 
 ##### GIF:
 ![](../gifs/kalman-filter/kalman-filter.gif)
