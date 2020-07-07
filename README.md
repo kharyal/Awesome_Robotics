@@ -28,4 +28,4 @@ You are good to go now!
 ### Contents:
 1. Bayes filter
 2. [Kalman filter](./kalman-filter/kalman-filter.md) (in progress)
-3. Extended Kalman filter (in progress)
+3. [Extended Kalman filter](./Extended-Kalman-Filter/Extended-Kalman-Filter.md) (in progress)
