@@ -62,6 +62,7 @@ python-dateutil=2.8.1=py_0
 python_abi=3.8=1_cp38
 pyzmq=19.0.1=py38ha71036d_0
 readline=8.0=hf8c457e_0
+scipy=1.5.0=py38h0b6359f_0
 send2trash=1.5.0=py_0
 setuptools=48.0.0=py38h32f6830_0
 six=1.15.0=pyh9f0ad1d_0
